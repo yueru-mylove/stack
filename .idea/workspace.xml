@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="104430bd-53ce-45fe-b03f-27bbb8dd55ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/clud2go/app/StackApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/clud2go/app/StackApplication.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -89,6 +94,7 @@
       <updated>1574071551044</updated>
       <workItem from="1574071555984" duration="1686000" />
       <workItem from="1574083892767" duration="1394000" />
+      <workItem from="1574215718510" duration="845000" />
     </task>
     <servers />
   </component>
@@ -107,5 +113,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="192" height="361" key="Git.Branch.Popup" />
+    <state width="192" height="361" key="Git.Branch.Popup/1920.1080/1920.1080" />
+    <state width="192" height="361" key="Git.Branch.Popup@1920.1080" />
   </component>
 </project>

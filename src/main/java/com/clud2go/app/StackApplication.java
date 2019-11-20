@@ -17,6 +17,6 @@ public class StackApplication {
 
     @GetMapping("/test")
     public String test() {
-        return "master";
+        return "uat";
     }
 }
