@@ -15,8 +15,8 @@ public class StackApplication {
     }
 
 
-    @GetMapping("/")
+    @GetMapping("/test")
     public String test() {
-        return "test";
+        return "master";
     }
 }
